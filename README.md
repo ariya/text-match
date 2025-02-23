@@ -20,10 +20,10 @@ npm install
 
 ## Example Usage
 
-To find the most relevant lines in `solar-system.txt` related to "largest planet":
+To find the most relevant lines in `solar-system.txt` related to "gas giants composition":
 
 ```bash
-./text-match.js solar-system.txt "largest planet"
+./text-match.js solar-system.txt "gas giants composition"
 ```
 
 This will output the top 3 most similar lines from `solar-system.txt` based on the provided query.
