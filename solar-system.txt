@@ -4,10 +4,15 @@ The Solar System developed 4.6 billion years ago when a dense region of a molecu
 All four terrestrial planets belong to the inner Solar System and have solid surfaces.
 Inversely, all four giant planets belong to the outer Solar System and do not have a definite surface, as they are mainly composed of gases and liquids.
 99.86% of the Solar System's mass is in the Sun and nearly 90% of the remaining mass are in Jupiter and Saturn.
-There is a strong consensus among astronomers that the Solar System also has nine dwarf planets, which consist of one asteroid-belt object – Ceres; five Kuiper-belt objects – Pluto, Orcus, Haumea, Quaoar, and Makemake; and three scattered-disc objects – Gonggong, Eris, and Sedna.
+There is a strong consensus among astronomers that the Solar System also has nine dwarf planets, which consist of one asteroid-belt object 
+ Ceres; five Kuiper-belt objects 
+ Pluto, Orcus, Haumea, Quaoar, and Makemake; and three scattered-disc objects 
+ Gonggong, Eris, and Sedna.
 There are a vast number of smaller objects orbiting the Sun, called small Solar System bodies.
 This category includes asteroids, comets, centaurs, meteoroids and interplanetary dust clouds.
-Many of these objects are in the asteroid belt between the orbits of Mars and Jupiter (1.5–4.5 AU), and the Kuiper belt just outside Neptune's orbit (30–50 AU).
+Many of these objects are in the asteroid belt between the orbits of Mars and Jupiter (1.5
+4.5 AU), and the Kuiper belt just outside Neptune's orbit (30
+50 AU).
 Six of the major planets, the six largest possible dwarf planets, and many of the smaller bodies are orbited by natural satellites, commonly called "moons" after Earth's Moon.
 Two natural satellites, Jupiter's moon Ganymede and Saturn's moon Titan, are larger than Mercury, the smallest terrestrial planet, though they are less massive.
 The Solar System is constantly flooded by the Sun's charged particles, the Solar wind, forming the heliosphere.
@@ -39,12 +44,16 @@ The Solar System will remain roughly as it is known today until the hydrogen in 
 This will mark the end of the Sun's main-sequence life.
 At that time, the core of the Sun will contract with hydrogen fusion occurring along a shell surrounding the inert helium, and the energy output will be greater than at present.
 The outer layers of the Sun will expand to roughly 260 times its current diameter, and the Sun will become a red giant.
-Because of its increased surface area, the surface of the Sun will be cooler (2,600 K (2,330 °C; 4,220 °F) at its coolest) than it is on the main sequence.
+Because of its increased surface area, the surface of the Sun will be cooler (2,600 K (2,330 
+C; 4,220 
+F) at its coolest) than it is on the main sequence.
 The expanding Sun is expected to vaporize Mercury as well as Venus, and render Earth uninhabitable (possibly destroying it as well).
 Eventually, the core will be hot enough for helium fusion; the Sun will burn helium for a fraction of the time it burned hydrogen in the core.
 The Sun is not massive enough to commence the fusion of heavier elements, and nuclear reactions in the core will dwindle.
 Its outer layers will be ejected into space, leaving behind a dense white dwarf, half the original mass of the Sun but only the size of Earth.
-The ejected outer layers will form what is known as a planetary nebula, returning some of the material that formed the Sun—but now enriched with heavier elements like carbon—to the interstellar medium.
+The ejected outer layers will form what is known as a planetary nebula, returning some of the material that formed the Sun
+but now enriched with heavier elements like carbon
+to the interstellar medium.
 Structure and composition  The Sun is the dominant gravitational member of the Solar System, and its planetary system is maintained in a relatively stable, slowly evolving state by following isolated, gravitationally bound orbits around the Sun.
 Although the Solar System has been fairly stable for billions of years, it is technically chaotic, and may eventually be disrupted (see Stability of the Solar System).
 There is also a small chance that another star will pass through the Solar System in the next billion years.
@@ -89,14 +98,21 @@ Together, gases and ices are referred to as volatiles.
 Distances and scales  The astronomical unit [AU] (150,000,000 km; 93,000,000 mi) would be the distance from the Earth to the Sun if the planet's orbit were perfectly circular.
 For comparison, the radius of the Sun is 0.0047 AU (700,000 km; 400,000 mi).
 Thus, the Sun occupies 0.00001% (10 %) of the volume of a sphere with a radius the size of Earth's orbit, whereas Earth's volume is roughly one millionth (10) that of the Sun.
-Jupiter, the largest planet, is 5.2 astronomical units (780,000,000 km; 480,000,000 mi) from the Sun and has a radius of 71,000 km (0.00047 AU; 44,000 mi), whereas the most distant planet, Neptune, is 30 AU (4.5 × 10 km; 2.8 × 10 mi) from the Sun.
+Jupiter, the largest planet, is 5.2 astronomical units (780,000,000 km; 480,000,000 mi) from the Sun and has a radius of 71,000 km (0.00047 AU; 44,000 mi), whereas the most distant planet, Neptune, is 30 AU (4.5 
+ 10 km; 2.8 
+ 10 mi) from the Sun.
 With a few exceptions, the farther a planet or belt is from the Sun, the larger the distance between its orbit and the orbit of the next nearest object to the Sun.
 For example, Venus is approximately 0.33 AU farther out from the Sun than Mercury, whereas Saturn is 4.3 AU out from Jupiter, and Neptune lies 10.5 AU out from Uranus.
-Attempts have been made to determine a relationship between these orbital distances, like the Titius–Bode law and Johannes Kepler's model based on the Platonic solids, but ongoing discoveries have invalidated these hypotheses.
+Attempts have been made to determine a relationship between these orbital distances, like the Titius
+Bode law and Johannes Kepler's model based on the Platonic solids, but ongoing discoveries have invalidated these hypotheses.
 Some Solar System models attempt to convey the relative scales involved in the Solar System in human terms.
-Some are small in scale (and may be mechanical—called orreries)—whereas others extend across cities or regional areas.
-The largest such scale model, the Sweden Solar System, uses the 110-metre (361 ft) Avicii Arena in Stockholm as its substitute Sun, and, following the scale, Jupiter is a 7.5-metre (25-foot) sphere at Stockholm Arlanda Airport, 40 km (25 mi) away, whereas the farthest current object, Sedna, is a 10 cm (4 in) sphere in Luleå, 912 km (567 mi) away.
-If the Sun–Neptune distance is scaled to 100 metres (330 ft), then the Sun would be about 3 cm (1.2 in) in diameter (roughly two-thirds the diameter of a golf ball), the giant planets would be all smaller than about 3 mm (0.12 in), and Earth's diameter along with that of the other terrestrial planets would be smaller than a flea (0.3 mm or 0.012 in) at this scale.
+Some are small in scale (and may be mechanical
+called orreries)
+whereas others extend across cities or regional areas.
+The largest such scale model, the Sweden Solar System, uses the 110-metre (361 ft) Avicii Arena in Stockholm as its substitute Sun, and, following the scale, Jupiter is a 7.5-metre (25-foot) sphere at Stockholm Arlanda Airport, 40 km (25 mi) away, whereas the farthest current object, Sedna, is a 10 cm (4 in) sphere in Lule
+, 912 km (567 mi) away.
+If the Sun
+Neptune distance is scaled to 100 metres (330 ft), then the Sun would be about 3 cm (1.2 in) in diameter (roughly two-thirds the diameter of a golf ball), the giant planets would be all smaller than about 3 mm (0.12 in), and Earth's diameter along with that of the other terrestrial planets would be smaller than a flea (0.3 mm or 0.012 in) at this scale.
 Interplanetary environment  The outermost layer of the Solar atmosphere is the heliosphere, which permeates much of the Solar planetary system.
 Along with light, the Sun radiates a continuous stream of charged particles (a plasma) called the solar wind.
 This stream of particles spreads outwards at speeds from 900,000 kilometres per hour (560,000 mph) to 2,880,000 kilometres per hour (1,790,000 mph), filling the vacuum between the bodies of the Solar System.
@@ -134,29 +150,45 @@ Composed mainly of silicates and metals, the objects of the inner Solar System a
 This region is also within the frost line, which is a little less than 5 AU (750 million km; 460 million mi) from the Sun.
 Inner planets  The four terrestrial or inner planets have dense, rocky compositions, few or no moons, and no ring systems.
 They are in hydrostatic equilibrium, forming a rounded shape, and have undergone planetary differentiation, causing chemical elements to accumulate at different radii.
-They are composed largely of refractory minerals such as silicates—which form their crusts and mantles— and metals such as iron and nickel which form their cores.
+They are composed largely of refractory minerals such as silicates
+which form their crusts and mantles
+ and metals such as iron and nickel which form their cores.
 Three of the four inner planets (Venus, Earth and Mars) have atmospheres substantial enough to generate weather; all have impact craters and tectonic surface features, such as rift valleys and volcanoes.
 The term inner planet should not be confused with inferior planet, which designates those planets that are closer to the Sun than Earth (i.e. Mercury and Venus).
-Mercury  Mercury (0.307–0.588 AU (45.9–88.0 million km; 28.5–54.7 million mi) from the Sun) is the closest planet to the Sun.
+Mercury  Mercury (0.307
+0.588 AU (45.9
+88.0 million km; 28.5
+54.7 million mi) from the Sun) is the closest planet to the Sun.
 The smallest planet in the Solar System (0.055 M), Mercury has no E natural satellites.
 The dominant geological features are impact craters or basins with ejecta blankets, the remains of early volcanic activity including magma flows, and lobed ridges or rupes that were probably produced by a period of contraction early in the planet's history.
 Mercury's very tenuous atmosphere consists of solar-wind particles trapped by Mercury's magnetic field, as well as atoms blasted off its surface by the solar wind.
 Its relatively large iron core and thin mantle have not yet been adequately explained.
 Hypotheses include that its outer layers were stripped off by a giant impact, or that it was prevented from fully accreting by the young Sun's energy.
 There have been searches for "Vulcanoids", asteroids in stable orbits between Mercury and the Sun, but none have been discovered.
-Venus  Venus (0.718–0.728 AU (107.4–108.9 million km; 66.7–67.7 million mi) from the Sun) is close in size to Earth (0.815 M) and, like Earth, has a thick silicate mantle around an iron core, a E substantial atmosphere, and evidence of internal geological activity.
+Venus  Venus (0.718
+0.728 AU (107.4
+108.9 million km; 66.7
+67.7 million mi) from the Sun) is close in size to Earth (0.815 M) and, like Earth, has a thick silicate mantle around an iron core, a E substantial atmosphere, and evidence of internal geological activity.
 It is much drier than Earth, and its atmosphere is ninety times as dense.
 Venus has no natural satellites.
-It is the hottest planet, with surface temperatures over 400 °C (752 °F), mainly due to the amount of greenhouse gases in the atmosphere.
+It is the hottest planet, with surface temperatures over 400 
+C (752 
+F), mainly due to the amount of greenhouse gases in the atmosphere.
 The planet has no magnetic field that would prevent the depletion of its substantial atmosphere, which suggests that its atmosphere is being replenished by volcanic eruptions.
 A relatively young planetary surface displays extensive evidence of volcanic activity, but is devoid of plate tectonics.
 It may undergo resurfacing episodes on a time scale of 700 million years.
-Earth  Earth (0.983–1.017 AU (147.1–152.1 million km; 91.4–94.5 million mi) from the Sun) is the largest and densest of the inner planets, the only one known to have current geological activity, and the only place in the universe where life is known to exist.
+Earth  Earth (0.983
+1.017 AU (147.1
+152.1 million km; 91.4
+94.5 million mi) from the Sun) is the largest and densest of the inner planets, the only one known to have current geological activity, and the only place in the universe where life is known to exist.
 Its liquid hydrosphere is unique among the terrestrial planets, and it is the only planet where plate tectonics has been observed.
 Earth's atmosphere is radically different from those of the other planets, having been altered by the presence of life to contain 21% free oxygen.
 The planetary magnetosphere shields the surface from solar and cosmic radiation, limiting atmospheric stripping and maintaining habitability.
 It has one natural satellite, the Moon.
-Mars  Mars (1.382–1.666 AU (206.7–249.2 million km; 128.5–154.9 million mi) from the Sun) is smaller than Earth and Venus (0.107 M).
+Mars  Mars (1.382
+1.666 AU (206.7
+249.2 million km; 128.5
+154.9 million mi) from the Sun) is smaller than Earth and Venus (0.107 M).
 It has an atmosphere of mostly carbon dioxide with a surface E pressure of 6.1 millibars (0.088 psi; 0.18 inHg); roughly 0.6% of that of Earth but sufficient to support weather phenomena.
 Its surface, peppered with volcanoes, such as Olympus Mons, and rift valleys, such as Valles Marineris, shows geological activity that may have persisted until as recently as 2 million years ago.
 Its red color comes from iron oxide (rust) in its soil, while the polar regions show white ice caps consisting largely of water.
@@ -187,7 +219,8 @@ They are not as clearly distinguished as planetary moons, sometimes being almost
 that of 90 Antiope).
 The asteroid belt includes main-belt comets, which may have been the source of Earth's water.
 Jupiter trojans are located in either of Jupiter's Lor Lpoints (gravitationally stable regions 4 5  leading and trailing a planet in its orbit); the term trojan is also used for small bodies in any other planetary or satellite Lagrange point.
-Hilda asteroids are in a 2 3 resonance with Jupiter; that is, they go around the Sun three times for every two Jupiter orbits.
+Hilda asteroids are in a 2
+3 resonance with Jupiter; that is, they go around the Sun three times for every two Jupiter orbits.
 The inner Solar System contains near-Earth asteroids, many of which cross the orbits of the inner planets.
 Some of them are potentially hazardous objects.
 Outer Solar System  The outer region of the Solar System is home to the giant planets and their large moons.
@@ -195,33 +228,50 @@ The centaurs and many short-period comets also orbit in this region.
 Due to their greater distance from the Sun, the solid objects in the outer Solar System contain a higher proportion of volatiles, such as water, ammonia, and methane than those of the inner Solar System because the lower temperatures allow these compounds to remain solid, without significant rates of sublimation.
 Outer planets  The four outer planets, also called giant planets or Jovian planets, collectively make up 99% of the mass known to orbit the Sun.
 Jupiter and Saturn are together more than 400 times the mass of Earth and consist overwhelmingly of the gases hydrogen and helium, hence their designation as gas giants.
-Uranus and Neptune are far less massive—less than 20 Earth masses (M) each— E and are composed primarily of ice.
+Uranus and Neptune are far less massive
+less than 20 Earth masses (M) each
+ E and are composed primarily of ice.
 For these reasons, some astronomers suggest they belong in their own category, ice giants.
 All four giant planets have rings, although only Saturn's ring system is easily observed from Earth.
 The term superior planet designates planets outside Earth's orbit and thus includes both the outer planets and Mars.
-The ring–moon systems of Jupiter, Saturn, and Uranus are like miniature versions of the Solar System; that of Neptune is significantly different, having been disrupted by the capture of its largest moon Triton.
-Jupiter  Jupiter (4.951–5.457 AU (740.7–816.4 million km; 460.2–507.3 million mi) from the Sun), at 318 M, is 2.5 times the mass of all the other planets put together.
+The ring
+moon systems of Jupiter, Saturn, and Uranus are like miniature versions of the Solar System; that of Neptune is significantly different, having been disrupted by the capture of its largest moon Triton.
+Jupiter  Jupiter (4.951
+5.457 AU (740.7
+816.4 million km; 460.2
+507.3 million mi) from the Sun), at 318 M, is 2.5 times the mass of all the other planets put together.
 It is composed largely of E hydrogen and helium.
 Jupiter's strong internal heat creates semi-permanent features in its atmosphere, such as cloud bands and the Great Red Spot.
-The planet possesses a 4.2–14 Gauss strength magnetosphere that spans 22–29 million km, making it, in certain respects, the largest object in the Solar System.
+The planet possesses a 4.2
+14 Gauss strength magnetosphere that spans 22
+29 million km, making it, in certain respects, the largest object in the Solar System.
 Jupiter has 95 known satellites.
 The four largest, Ganymede, Callisto, Io, and Europa, are called the Galilean moons: they show similarities to the terrestrial planets, such as volcanism and internal heating.
 Ganymede, the largest satellite in the Solar System, is larger than Mercury; Callisto is almost as large.
-Saturn  Saturn (9.075–10.07 AU (1.3576–1.5065 billion km; 843.6–936.1 million mi) from the Sun), distinguished by its extensive ring system, has several similarities to Jupiter, such as its atmospheric composition and magnetosphere.
+Saturn  Saturn (9.075
+10.07 AU (1.3576
+1.5065 billion km; 843.6
+936.1 million mi) from the Sun), distinguished by its extensive ring system, has several similarities to Jupiter, such as its atmospheric composition and magnetosphere.
 Although Saturn has 60% of Jupiter's volume, it is less than a third as massive, at 95 M.
 Saturn is the only planet of the Solar System that is less E dense than water.
 The rings of Saturn are made up of small ice and rock particles.
 Saturn has 145 confirmed satellites composed largely of ice.
 Two of these, Titan and Enceladus, show signs of geological activity; they, as well as five other Saturnian moons (Iapetus, Rhea, Dione, Tethys, and Mimas), are large enough to be round.
 Titan, the second-largest moon in the Solar System, is bigger than Mercury and the only satellite in the Solar System to have a substantial atmosphere.
-Uranus  Uranus (18.27–20.06 AU (2.733–3.001 billion km; 1.698–1.865 billion mi) from the Sun), at 14 M, E has the lowest mass of the outer planets.
+Uranus  Uranus (18.27
+20.06 AU (2.733
+3.001 billion km; 1.698
+1.865 billion mi) from the Sun), at 14 M, E has the lowest mass of the outer planets.
 Uniquely among the planets, it orbits the Sun on its side; its axial tilt is over ninety degrees to the ecliptic.
 This gives the planet extreme seasonal variation as each pole points toward and then away from the Sun.
 It has a much colder core than the other giant planets and radiates very little heat into space.
 As a consequence, it has the coldest planetary atmosphere in the Solar System.
 Uranus has 27 known satellites, the largest ones being Titania, Oberon, Umbriel, Ariel, and Miranda.
 Like the other giant planets, it possesses a ring system and magnetosphere.
-Neptune  Neptune (29.89–30.47 AU (4.471–4.558 billion km; 2.778–2.832 billion mi) from the Sun), though slightly smaller than Uranus, is more massive (17 M) and hence more dense.
+Neptune  Neptune (29.89
+30.47 AU (4.471
+4.558 billion km; 2.778
+2.832 billion mi) from the Sun), though slightly smaller than Uranus, is more massive (17 M) and hence more dense.
 It radiates more E internal heat than Uranus, but not as much as Jupiter or Saturn.
 Neptune has 14 known satellites.
 The largest, Triton, is geologically active, with geysers of liquid nitrogen.
@@ -236,19 +286,23 @@ They have highly eccentric orbits, generally a perihelion within the orbits of t
 When a comet enters the inner Solar System, its proximity to the Sun causes its icy surface to sublimate and ionise, creating a coma: a long tail of gas and dust often visible to the naked eye.
 Short-period comets have orbits lasting less than two hundred years.
 Long-period comets have orbits lasting thousands of years.
-Short-period comets are thought to originate in the Kuiper belt, whereas long-period comets, such as Hale–Bopp, are thought to originate in the Oort cloud.
+Short-period comets are thought to originate in the Kuiper belt, whereas long-period comets, such as Hale
+Bopp, are thought to originate in the Oort cloud.
 Many comet groups, such as the Kreutz sungrazers, formed from the breakup of a single parent.
 Some comets with hyperbolic orbits may originate outside the Solar System, but determining their precise orbits is difficult.
 Old comets whose volatiles have mostly been driven out by solar warming are often categorised as asteroids.
 Trans-Neptunian region  Beyond the orbit of Neptune lies the area of the "trans-Neptunian region", with the doughnut- shaped Kuiper belt, home of Pluto and several other dwarf planets, and an overlapping disc of scattered objects, which is tilted toward the plane of the Solar System and reaches much further out than the Kuiper belt.
 The entire region is still largely unexplored.
-It appears to consist overwhelmingly of many thousands of small worlds—the largest having a diameter only a fifth that of Earth and a mass far smaller than that of the Moon—composed mainly of rock and ice.
+It appears to consist overwhelmingly of many thousands of small worlds
+the largest having a diameter only a fifth that of Earth and a mass far smaller than that of the Moon
+composed mainly of rock and ice.
 This region is sometimes described as the "third zone of the Solar System", enclosing the inner and the outer Solar System.
 Kuiper belt  The Kuiper belt is a great ring of debris similar to the asteroid belt, but consisting mainly of objects composed primarily of ice.
 It extends between 30 and 50 AU (4.5 and 7.5 billion km; 2.8 and 4.6 billion mi) from the Sun.
 It is composed mainly of small Solar System bodies, although the largest few are probably large enough to be dwarf planets.
 There are estimated to be over 100,000 Kuiper belt objects with a diameter greater than 50 km (30 mi), but the total mass of the Kuiper belt is thought to be only a tenth or even a hundredth the mass of Earth.
-Many Kuiper belt objects have satellites, and most have orbits that are substantially inclined (~10°) to the plane of the ecliptic.
+Many Kuiper belt objects have satellites, and most have orbits that are substantially inclined (~10
+) to the plane of the ecliptic.
 The Kuiper belt can be roughly divided into the "classical" belt and the resonant trans-Neptunian objects.
 The latter have orbits whose periods are in a simple ratio to that of Neptune: for example, going around the Sun twice for every three times that Neptune does, or once for every two.
 The classical belt consists of objects having no resonance with Neptune, and extends from roughly 39.4 to 47.7 AU (5.89 to 7.14 billion km; 3.66 to 4.43 billion mi).
@@ -256,7 +310,8 @@ Members of the classical Kuiper belt are sometimes called "cubewanos", after the
 1  Pluto and Charon  The dwarf planet Pluto (with an average orbit of 39 AU (5.8 billion km; 3.6 billion mi) from the Sun) is the largest known object in the Kuiper belt.
 When discovered in 1930, it was considered to be the ninth planet; this changed in 2006 with the adoption of a formal definition of planet.
 Pluto has a relatively eccentric orbit inclined 17 degrees to the ecliptic plane and ranging from 29.7 AU (4.44 billion km; 2.76 billion mi) from the Sun at perihelion (within the orbit of Neptune) to 49.5 AU (7.41 billion km; 4.60 billion mi) at aphelion.
-Pluto has a 2 3 resonance with Neptune, meaning that Pluto orbits twice round the Sun for every three Neptunian orbits.
+Pluto has a 2
+3 resonance with Neptune, meaning that Pluto orbits twice round the Sun for every three Neptunian orbits.
 Kuiper belt objects whose orbits share this resonance are called plutinos.
 Charon, the largest of Pluto's moons, is sometimes described as part of a binary system with Pluto, as the two bodies orbit a barycenter of gravity above their surfaces (i.e.
 they appear to "orbit each other").
@@ -264,36 +319,43 @@ Beyond Charon, four much smaller moons, Styx, Nix, Kerberos, and Hydra, orbit Pl
 Others  Besides Pluto, astronomers generally agree that at least four other Kuiper belt objects are dwarf planets, though there is some doubt for Orcus, and additional bodies have also been proposed:  Makemake (45.79 AU average from the Sun), although smaller than Pluto, is the largest known object in the classical Kuiper belt (that is, a Kuiper belt object not in a confirmed resonance with Neptune).
 Makemake is the brightest object in the Kuiper belt after Pluto.
 Discovered in 2005, it was officially named in 2009.
-Its orbit is far more inclined than Pluto's, at 29°.
+Its orbit is far more inclined than Pluto's, at 29
 It has one known moon.
-Haumea (43.13 AU average from the Sun) is in an orbit similar to Makemake, except that it is in a temporary 7 12 orbital resonance with Neptune.
+Haumea (43.13 AU average from the Sun) is in an orbit similar to Makemake, except that it is in a temporary 7
+12 orbital resonance with Neptune.
 Like Makemake, it was discovered in 2005.
-Uniquely among the dwarf planets, Haumea possess a ring system, two known moons named Hiʻiaka and Namaka, and rotates so quickly (once every 3.9 hours) that it is stretched into an ellipsoid.
+Uniquely among the dwarf planets, Haumea possess a ring system, two known moons named Hi
+iaka and Namaka, and rotates so quickly (once every 3.9 hours) that it is stretched into an ellipsoid.
 It is part of a collisional family of Kuiper belt objects that share similar orbits, which suggests a giant collision took place on Haumea and ejected its fragments into space billions of years ago.
 Quaoar (43.69 AU average from the Sun) is the second-largest known object in the classical Kuiper belt, after Makemake.
 Its orbit is significantly less eccentric and inclined than those of Makemake or Haumea.
 It possesses a ring system and one known moon, Weywot.
-Orcus (39.40 AU average from the Sun) is in the same 2 3 orbital resonance with Neptune as Pluto, and is the largest such object after Pluto itself.
-Its eccentricity and inclination are similar to Pluto's, but its perihelion lies about 120° from that of Pluto.
+Orcus (39.40 AU average from the Sun) is in the same 2
+3 orbital resonance with Neptune as Pluto, and is the largest such object after Pluto itself.
+Its eccentricity and inclination are similar to Pluto's, but its perihelion lies about 120
+ from that of Pluto.
 Thus, the phase of Orcus's orbit is opposite to Pluto's: Orcus is at aphelion (most recently in 2019) around when Pluto is at perihelion (most recently in 1989) and vice versa.
 For this reason, it has been called the anti- Pluto.
 It has one known moon, Vanth.
 Scattered disc  The scattered disc, which overlaps the Kuiper belt but extends out to near 500 AU, is thought to be the source of short-period comets.
 Scattered-disc objects are believed to have been perturbed into erratic orbits by the gravitational influence of Neptune's early outward migration.
 Most scattered disc objects (SDOs) have perihelia within the Kuiper belt but aphelia far beyond it (some more than 150 AU from the Sun).
-SDOs' orbits can also be inclined up to 46.8° from the ecliptic plane.
+SDOs' orbits can also be inclined up to 46.8
+ from the ecliptic plane.
 Some astronomers consider the scattered disc to be merely another region of the Kuiper belt and describe scattered-disc objects as "scattered Kuiper belt objects".
 Some astronomers also classify centaurs as inward-scattered Kuiper belt objects along with the outward-scattered residents of the scattered disc.
 Eris and Gonggong  Eris (67.78 AU average from the Sun) is the largest known scattered disc object, and caused a debate about what constitutes a planet, because it is 25% more massive than Pluto and about the same diameter.
 It is the most massive of the known dwarf planets.
 It has one known moon, Dysnomia.
-Like Pluto, its orbit is highly eccentric, with a perihelion of 38.2 AU (roughly Pluto's distance from the Sun) and an aphelion of 97.6 AU, and steeply inclined to the ecliptic plane at an angle of 44°.
-Gonggong (67.38 AU average from the Sun) is another dwarf planet in a comparable orbit to Eris, except that it is in a 3 10 resonance with Neptune.
+Like Pluto, its orbit is highly eccentric, with a perihelion of 38.2 AU (roughly Pluto's distance from the Sun) and an aphelion of 97.6 AU, and steeply inclined to the ecliptic plane at an angle of 44
+Gonggong (67.38 AU average from the Sun) is another dwarf planet in a comparable orbit to Eris, except that it is in a 3
+10 resonance with Neptune.
 It has one known moon, Xiangliu.
 Farthest regions  The point at which the Solar System ends and interstellar space begins is not precisely defined because its outer boundaries are shaped by two forces: the solar wind and the Sun's gravity.
 The limit of the solar wind's influence is roughly four times Pluto's distance from the Sun; this heliopause, the outer boundary of the heliosphere, is considered the beginning of the interstellar medium.
 The Sun's Hill sphere, the effective range of its gravitational dominance, is thought to extend up to a thousand times farther and encompasses the hypothetical Oort cloud.
-Edge of the heliosphere  The Sun's stellar-wind bubble, the heliosphere, a region of space dominated by the Sun, has its boundary at the termination shock, which is roughly 80–100 AU from the Sun upwind of the interstellar medium and roughly 200 AU from the Sun downwind.
+Edge of the heliosphere  The Sun's stellar-wind bubble, the heliosphere, a region of space dominated by the Sun, has its boundary at the termination shock, which is roughly 80
+100 AU from the Sun upwind of the interstellar medium and roughly 200 AU from the Sun downwind.
 Here the solar wind collides with the interstellar medium and dramatically slows, condenses and becomes more turbulent, forming a great oval structure known as the heliosheath.
 This structure has been theorized to look and behave very much like a comet's tail, extending outward for a further 40 AU on the upwind side but tailing many times that distance downwind.
 Evidence from the Cassini and Interstellar Boundary Explorer spacecraft has suggested that it is forced into a bubble shape by the constraining action of the interstellar magnetic field, but the actual shape remains unknown.
@@ -327,12 +389,14 @@ The latter feature is an hourglass-shaped cavity or superbubble in the interstel
 The bubble is suffused with high-temperature plasma, suggesting that it may be the product of several recent supernovae.
 The Local Bubble is a small superbubble compared to the neighboring wider Radcliffe Wave and Split linear structures (formerly Gould Belt), each of which are some thousands of light-years in length.
 All these structures are part of the Orion Arm, which contains most of the stars in the Milky Way that are visible to the unaided eye.
-The density of all matter in the local neighborhood is 0.097 ± 0.013 M·pc.
-☉  Within ten light-years of the Sun there are relatively few stars, the closest being the triple star system Alpha Centauri, which is about 4.4 light-years away and may be in the Local Bubble's G- Cloud.
+The density of all matter in the local neighborhood is 0.097 
+ 0.013 M
+  Within ten light-years of the Sun there are relatively few stars, the closest being the triple star system Alpha Centauri, which is about 4.4 light-years away and may be in the Local Bubble's G- Cloud.
 Alpha Centauri A and B are a closely tied pair of Sun-like stars, whereas the closest star to Earth, the small red dwarf Proxima Centauri, orbits the pair at a distance of 0.2 light-year.
 In 2016, a potentially habitable exoplanet was found to be orbiting Proxima Centauri, called Proxima Centauri b, the closest confirmed exoplanet to the Sun.
 The next closest known fusors to the Sun are the red dwarfs Barnard's Star (at 5.9 ly), Wolf 359 (7.8 ly), and Lalande 21185 (8.3 ly).
-The nearest brown dwarfs belong to the binary Luhman 16 system (6.6 ly), and the closest known rogue or free-floating planetary-mass object at less than 10 Jupiter masses is the sub-brown dwarf WISE 0855−0714 (7.4 ly).
+The nearest brown dwarfs belong to the binary Luhman 16 system (6.6 ly), and the closest known rogue or free-floating planetary-mass object at less than 10 Jupiter masses is the sub-brown dwarf WISE 0855
+0714 (7.4 ly).
 Just beyond at 8.6 ly lies Sirius, the brightest star in Earth's night sky, with roughly twice the Sun's mass, orbited by the closest white dwarf to Earth, Sirius B.
 Other stars within ten light-years are the binary red-dwarf system Gliese 65 (8.7 ly) and the solitary red dwarf Ross 154 (9.7 ly).
 The closest solitary Sun-like star to the Solar System is Tau Ceti at 11.9 light-years.
@@ -340,13 +404,15 @@ It has roughly 80% of the Sun's mass but only about half of its luminosity.
 The nearest and unaided-visible group of stars beyond the immediate celestial neighborhood is the Ursa Major moving group at roughly 80 light-years, which is within the Local Bubble, like the nearest as well as unaided-visible star cluster the Hyades, which lie at its edge.
 The closest star- forming regions are the Corona Australis Molecular Cloud, the Rho Ophiuchi cloud complex and the Taurus molecular cloud; the latter lies just beyond the Local Bubble and is part of the Radcliffe wave.
 Galactic position and orbit  The Solar System is located in the Milky Way, a barred spiral galaxy with a diameter of about 100,000 light-years containing more than 100 billion stars.
-The Sun is part of one of the Milky Way's outer spiral arms, known as the Orion–Cygnus Arm or Local Spur.
+The Sun is part of one of the Milky Way's outer spiral arms, known as the Orion
+Cygnus Arm or Local Spur.
 The Sun orbits close to circular the Galactic Center (where the supermassive black hole Sagittarius A* resides) at a distance of 26,660 light-years, orbiting at roughly the same speed as that of the spiral arms.
 Therefore, the Sun passes through arms only rarely.
 Its speed around the center of the Milky Way is about 220 km/s, so that it completes one revolution every 240 million years.
 This revolution is known as the Solar System's galactic year.
 The solar apex, the direction of the Sun's path through interstellar space, is near the constellation Hercules in the direction of the current location of the bright star Vega.
-The plane of the ecliptic lies at an angle of about 60° to the galactic plane.
+The plane of the ecliptic lies at an angle of about 60
+ to the galactic plane.
 Habitability of galactic position and orbit  The Solar System's location in the Milky Way is a factor in the evolutionary history of life on Earth.
 Spiral arms are home to a far larger concentration of supernovae, gravitational instabilities, and radiation that could disrupt the Solar System, but since Earth stays in the Local Spur and therefore does not pass frequently through spiral arms, this has given Earth long periods of stability for life to evolve.
 However, the changing position of the Solar System relative to other parts of the Milky Way could explain periodic extinction events on Earth, according to the Shiva hypothesis or related theories, but this remains controversial.
@@ -354,16 +420,20 @@ The Solar System lies well outside the star-crowded environs of the Galactic Cen
 Near the center, gravitational tugs from nearby stars could perturb bodies in the Oort cloud and send many comets into the inner Solar System, producing collisions with potentially catastrophic implications for life on Earth.
 The intense radiation of the Galactic Center could also interfere with the development of complex life.
 Stellar flybys that pass within 0.8 light-years of the Sun occur roughly once every 100,000 years.
-The closest well-measured approach was Scholz's Star, which +23             +15 approached to of the Sun some , likely passing through the outer Oort 52 kAU 70 kya −14 −10  cloud.
+The closest well-measured approach was Scholz's Star, which +23             +15 approached to of the Sun some , likely passing through the outer Oort 52 kAU 70 kya 
+10  cloud.
 Comparison with extrasolar systems  Compared to many extrasolar systems, the Solar System stands out in lacking planets interior to the orbit of Mercury.
 The known Solar System also lacks super-Earths, planets between one and ten times as massive as the Earth, although the hypothetical Planet Nine, if it does exist, could be a super-Earth orbiting in the outer Solar System.
-Uncommonly, it has only small rocky planets and large gas giants; elsewhere planets of intermediate size are typical—both rocky and gas—so there is no "gap" as seen between the size of Earth and of Neptune (with a radius 3.8 times as large).
+Uncommonly, it has only small rocky planets and large gas giants; elsewhere planets of intermediate size are typical
+both rocky and gas
+so there is no "gap" as seen between the size of Earth and of Neptune (with a radius 3.8 times as large).
 As many of these super-Earths are closer to their respective stars than Mercury is to the Sun, a hypothesis has arisen that all planetary systems start with many close-in planets, and that typically a sequence of their collisions causes consolidation of mass into few larger planets, but in case of the Solar System the collisions caused their destruction and ejection.
 The orbits of Solar System planets are nearly circular.
 Compared to other systems, they have smaller orbital eccentricity.
 Although there are attempts to explain it partly with a bias in the radial-velocity detection method and partly with long interactions of a quite high number of planets, the exact causes remain undetermined.
 Humanity's perspective  Humanity's knowledge of the Solar System has grown incrementally over the centuries.
-Up to the Late Middle Ages–Renaissance, astronomers from Europe to India believed Earth to be stationary at the center of the universe and categorically different from the divine or ethereal objects that moved through the sky.
+Up to the Late Middle Ages
+Renaissance, astronomers from Europe to India believed Earth to be stationary at the center of the universe and categorically different from the divine or ethereal objects that moved through the sky.
 Although the Greek philosopher Aristarchus of Samos had speculated on a heliocentric reordering of the cosmos, Nicolaus Copernicus was the first person known to have developed a mathematically predictive heliocentric system.
 Heliocentrism did not triumph immediately over geocentrism, but the work of Copernicus had its champions, notably Johannes Kepler.
 Using a heliocentric model that improved upon Copernicus by allowing orbits to be elliptical, and the precise observational data of Tycho Brahe, Kepler produced the Rudolphine Tables, which enabled accurate computations of the positions of the then-known planets.
@@ -374,9 +444,11 @@ Christiaan Huygens followed on from these observations by discovering Saturn's m
 In 1677, Edmond Halley observed a transit of Mercury across the Sun, leading him to realize that observations of the solar parallax of a planet (more ideally using the transit of Venus) could be used to trigonometrically determine the distances between Earth, Venus, and the Sun.
 Halley's friend Isaac Newton, in his magisterial Principia Mathematica of 1687, demonstrated that celestial bodies are not quintessentially different from Earthly ones: the same laws of motion and of gravity apply on Earth and in the skies.
 The term "Solar System" entered the English language by 1704, when John Locke used it to refer to the Sun, planets, and comets.
-In 1705, Halley realized that repeated sightings of a comet were of the same object, returning regularly once every 75–76 years.
+In 1705, Halley realized that repeated sightings of a comet were of the same object, returning regularly once every 75
+76 years.
 This was the first evidence that anything other than the planets repeatedly orbited the Sun, though Seneca had theorized this about comets in the 1st century.
-Careful observations of the 1769 transit of Venus allowed astronomers to calculate the average Earth–Sun distance as 93,726,900 miles (150,838,800 km), only 0.8% greater than the modern value.
+Careful observations of the 1769 transit of Venus allowed astronomers to calculate the average Earth
+Sun distance as 93,726,900 miles (150,838,800 km), only 0.8% greater than the modern value.
 Uranus, having occasionally been observed since antiquity, was recognized to be a planet orbiting beyond Saturn by 1783.
 In 1838, Friedrich Bessel successfully measured a stellar parallax, an apparent shift in the position of a star created by Earth's motion around the Sun, providing the first direct, experimental proof of heliocentrism.
 Neptune was identified as a planet some years later, in 1846, thanks to its gravitational pull causing a slight but detectable variation in the orbit of Uranus.
@@ -393,9 +465,11 @@ a. The asteroid belt and Kuiper belt are not added because the individual astero
 b. As of 14 August 2023.
 c. Capitalization of the name varies. The International Astronomical Union, the authoritative body regarding astronomical nomenclature, specifies capitalizing the names of all individual astronomical objects but uses mixed "Solar System" and "solar system" structures in their naming guidelines document (http://www.iau.org/public/themes/naming/) Archived (https://web.archive.org/web/202107 25053113/https://www.iau.org/public/themes/naming) 25 July 2021 at the Wayback Machine.
 The name is commonly rendered in lower case ('solar system'), as, for example, in the Oxford English Dictionary and Merriam-Webster's 11th Collegiate Dictionary (http://www.m-w.com/dictionary/solar%2 0system) Archived (https://web.archive.org/web/20080127201148/http://www.m-w.com/dictionary/s olar%20system) 27 January 2008 at the Wayback Machine.
-d. For more classifications of Solar System objects, see List of minor-planet groups and Comet § Classification.
+d. For more classifications of Solar System objects, see List of minor-planet groups and Comet 
+ Classification.
 +0.2 The date is based on the oldest inclusions found to date in meteorites, million years, and e.
-4 568.2  −0.4  is thought to be the date of the formation of the first solid material in the collapsing nebula.
+4 568.2  
+0.4  is thought to be the date of the formation of the first solid material in the collapsing nebula.
 f. "Low-mass" is a relative term; the Sun is still more massive than 95% of stars in the galaxy.
 g. The mass of the Solar System excluding the Sun, Jupiter and Saturn can be determined by adding together all the calculated masses for its largest objects and using rough calculations for the masses of the Oort cloud (estimated at roughly 3 Earth masses), the Kuiper belt (estimated at 0.1 Earth mass) and the asteroid belt (estimated to be 0.0005 Earth mass) for a total, rounded upwards, of ~37 Earth masses, or 8.1% of the mass in orbit around the Sun.
 With the combined masses of Uranus and Neptune (~31 Earth masses) subtracted, the remaining ~6 Earth masses of material comprise 1.3% of the total orbiting mass.
@@ -409,5 +483,9 @@ The IAU has recognized four other bodies in the Solar System as dwarf planets: C
 Other objects commonly accepted as dwarf planets include Gonggong, Sedna, Orcus, and Quaoar.
 In a reference to Pluto, other dwarf planets orbiting in the trans- Neptunian region are sometimes called "plutoids", though this term is seldom used.
 The remaining objects orbiting the Sun are known as small Solar System bodies.
-i. If is the angle between the north pole of the ecliptic and the north galactic pole then:  where = 27° 07′ 42.01″ and = 12h 51m 26.282s are the declination and right ascension of the  north galactic pole, whereas = 66° 33′ 38.6″ and = 18h 0m 00s are those for the north pole of the ecliptic.
-(Both pairs of coordinates are for J2000 epoch.) The result of the calculation is 60.19°.
+i. If is the angle between the north pole of the ecliptic and the north galactic pole then:  where = 27
+ 42.01
+ and = 12h 51m 26.282s are the declination and right ascension of the  north galactic pole, whereas = 66
+ 38.6
+ and = 18h 0m 00s are those for the north pole of the ecliptic.
+(Both pairs of coordinates are for J2000 epoch.) The result of the calculation is 60.19
