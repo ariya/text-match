@@ -43,7 +43,7 @@ const bm25 = (sentences, query, top_k = 3) => {
     return scores.sort((a, b) => b.score - a.score).slice(0, top_k);
 }
 
-(async () => {
+(() => {
     const args = process.argv.slice(2);
     if (args.length < 1) {
         console.log('Usage: text-match document query');
@@ -58,7 +58,7 @@ const bm25 = (sentences, query, top_k = 3) => {
         .filter(line => line.trim().length > 0);
 
     console.log('Searching for', query);
-    const matches = await bm25(sentences, query);
+    const matches = bm25(sentences, query);
     console.log();
     matches.map(match => {
         const { index, score } = match;
