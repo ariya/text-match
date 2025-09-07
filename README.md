@@ -2,25 +2,17 @@
 
 A simple demo of text matching using the [BM25 algorithm](https://en.wikipedia.org/wiki/Okapi_BM25).
 
-## Getting Started
-
-1.  **Install Dependencies:**
-```bash
-npm install
-```
-
-2.  **Run the Search Script:**
+Requirement: [Node.js](https://nodejs.org), [Deno](https://deno.com), or [Bun](https://bun.sh).
 
 ```bash
-./text-match.js <filename> "<query>"
+./text-match.js filename query
 ```
 
-* `<filename>`: The path to the text file you want to search. The file should contain one or more lines of text.
-* `"<query>"`: The search query, enclosed in double quotes.
+* `filename`: Path to the text file you want to search.
+* `query`: Search query, enclosed in double quotes.
 
-## Example Usage
 
-To find the most relevant lines in `solar-system.txt` related to "gas giants composition":
+As an example, to find the most relevant lines in `solar-system.txt` related to "gas giants composition":
 
 ```bash
 ./text-match.js solar-system.txt "gas giants composition"
