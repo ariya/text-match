@@ -1,6 +1,6 @@
 # Text Match
 
-A simple demo of text matching using the BM25 algorithm.
+A simple demo of text matching using the [BM25 algorithm](https://en.wikipedia.org/wiki/Okapi_BM25).
 
 ## Getting Started
 
